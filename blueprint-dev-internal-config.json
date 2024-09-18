@@ -1,0 +1,7 @@
+{
+	"epicoAPI": "http://blueprint-dev.bioinfo.cnio.es/epico-api",
+	"useLocalExportServer": "http://blueprint-dev.bioinfo.cnio.es/export-server/index.php",
+	"debug": true,
+	"dataRelease": "Dev Version!",
+	"dataDesc": "This release includes data from {{termNodes.length}} cell types, including {{numCellularLines}} cell lines."
+}

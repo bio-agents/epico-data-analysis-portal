@@ -1,0 +1,7 @@
+{
+	"epicoAPI": "/epico-api",
+	"epicoDomain": "EPICO:2016-08",
+	"useLocalExportServer": true,
+	"dataRelease": "August 2016",
+	"dataDesc": "This release includes data from {{termNodes.length}} cell types, including {{numCellularLines}} cell lines."
+}
