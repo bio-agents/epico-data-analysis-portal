@@ -1,7 +1,3 @@
-{
-	"epicoAPI": "http://blueprint-dev.bioinfo.cnio.es/epico-api",
-	"useLocalExportServer": "http://blueprint-dev.bioinfo.cnio.es/export-server/index.php",
-	"debug": true,
-	"dataRelease": "Dev Version!",
-	"dataDesc": "This release includes data from {{termNodes.length}} cell types, including {{numCellularLines}} cell lines."
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c710dcd9f8afb8ffa222a15728f49e56016ae55d401f29648485606f07cb89c
+size 327

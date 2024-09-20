@@ -1,7 +1,3 @@
-{
-	"epicoAPI": "/epico-api",
-	"epicoDomain": "EPICO:2016-08",
-	"useLocalExportServer": true,
-	"dataRelease": "August 2016",
-	"dataDesc": "This release includes data from {{termNodes.length}} cell types, including {{numCellularLines}} cell lines."
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dffd46c34c3edde1d9481cafe4ab604359d14f028eb4bbbe7aab17174be5be8
+size 249
